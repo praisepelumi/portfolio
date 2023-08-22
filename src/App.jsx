@@ -4,10 +4,10 @@ import RightContainer from './components/RightContainer';
 
 function App () {
   return(
-    <React.Fragment>
+    <div>
       <LeftContainer />
       <RightContainer/>
-    </React.Fragment>
+    </div>
   )
 }
 
