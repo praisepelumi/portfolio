@@ -5,9 +5,9 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 
 module.exports = {
-  entry: path.join(__dirname, './src/index.ts'),
+  entry: path.join(__dirname, './src/index.js'),
   output: {
-    path: path.resolve(__dirnmae, 'dist'),
+    path: path.resolve(__dirnamae, 'dist'),
     publicPath: '/',
     filename: 'bundle.js',
   },
@@ -15,7 +15,7 @@ module.exports = {
   mode: process.env.NODE_ENV,
   devServer: {
     host: 'localhost',
-    port: 8080,
+    port: 8081,
     hot: true,
     historyApiFallback: true,
 
@@ -27,11 +27,11 @@ module.exports = {
     headers: { 'Access-Control-Allow-Origin': '*' },
     proxy: {
       '/assets/**': {
-        target: 'http://localhost:3000/',
+        target: 'http://localhost:3001/',
         secure: false,
       },
       '/server/**': {
-        target: 'http://localhost:3000/',
+        target: 'http://localhost:3001/',
         secure: false,
       }, 
     },
@@ -67,7 +67,7 @@ module.exports = {
       template: path.join(__dirname, 'src', 'index.html'),
     }),
   ],
-  esolve: {
+  resolve: {
     extensions: ['.tsx', '.ts', '.js', '.jsx'],
   },
 
