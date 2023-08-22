@@ -4,7 +4,9 @@ function RightContainer () {
   
   return (
     <div>
-      <div></div>
+      <div>
+        
+      </div>
       <div></div>
       <div></div>
     </div>
