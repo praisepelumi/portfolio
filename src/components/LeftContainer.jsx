@@ -19,17 +19,35 @@ function LeftContainer () {
 
       <nav>
         <ul>
-          <li>Experience</li>
-          <li>Projects</li>
-          <li>Resume</li>
+          <li>
+            <a href="">
+            <span>01</span> 
+            <span></span>
+            <span>Experience</span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+            <span>02</span> 
+            <span></span>
+            <span>Projects</span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+            <span>03</span> 
+            <span></span>
+            <span>Resume</span>
+            </a>
+          </li>
         </ul>
       </nav>
 
       <div>
         <ul>
-          <li>Github</li>
-          <li>Linkedin</li>
-          <li>Email Me</li>
+          <li><a href="">Github</a></li>
+          <li><a href="">Linkedin</a></li>
+          <li><a href="">Email Me</a></li>
         </ul>
       </div>
     </div>
