@@ -23,7 +23,7 @@ function LeftContainer () {
             <a href="">
             <span>01</span> 
             <span></span>
-            <span>Experience</span>
+            <span>Skills</span>
             </a>
           </li>
           <li>
@@ -40,6 +40,14 @@ function LeftContainer () {
             <span>Resume</span>
             </a>
           </li>
+          <li>
+            <a href="">
+            <span>04</span> 
+            <span></span>
+            <span>Experience</span>
+            </a>
+          </li>
+       
         </ul>
       </nav>
 
