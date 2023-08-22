@@ -6,7 +6,8 @@ const App = () => {
 
   return(
     <React.Fragment>
-
+      <LeftContainer />
+      <RightContainer/>
     </React.Fragment>
   )
 }
