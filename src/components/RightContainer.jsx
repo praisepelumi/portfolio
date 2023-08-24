@@ -1,12 +1,13 @@
 import React from 'react';
 
 // Json Imports
-import experience from '../data/experience.json';
-import projects from '../data/projects.json';
-import resume from '../data/resume.json';
-import skills from '../data/skills.json';
+import experienceData from '../data/experience.json';
+import projectsData from '../data/projects.json';
+import resumeData from '../data/resume.json';
+import skillsData from '../data/skills.json';
 
 function RightContainer () {
+  
   
   return (
     <div>
