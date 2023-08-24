@@ -1,4 +1,6 @@
 import React from 'react';
+
+// Json Imports
 import experience from '../data/experience.json';
 import projects from '../data/projects.json';
 import resume from '../data/resume.json';
