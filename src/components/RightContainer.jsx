@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { useEffect } from 'react';
 // Json Imports
 import experienceData from '../data/experience.json';
 import projectsData from '../data/projects.json';
@@ -10,6 +10,7 @@ import skillsData from '../data/skills.json';
 import ExpContainer from './ExpContainer';
 
 function RightContainer () {
+  
   
   
   return (
