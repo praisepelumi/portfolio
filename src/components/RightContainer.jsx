@@ -2,7 +2,7 @@ import React from 'react';
 import experience from '../data/experience.json';
 import projects from '../data/projects.json';
 import resume from '../data/resume.json';
-
+import skills from '../data/skills.json';
 
 function RightContainer () {
   
