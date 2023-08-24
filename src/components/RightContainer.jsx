@@ -7,7 +7,7 @@ import resumeData from '../data/resume.json';
 import skillsData from '../data/skills.json';
 
 function RightContainer () {
-  
+ 
   
   return (
     <div>
