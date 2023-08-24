@@ -10,7 +10,7 @@ import skillsData from '../data/skills.json';
 import ExpContainer from './ExpContainer';
 
 function RightContainer () {
- 
+  
   
   return (
     <div>
