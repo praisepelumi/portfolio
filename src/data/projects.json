@@ -1,5 +1,11 @@
-{
-  "projectName": "Mondinero",
-  "info": "A simple and visual way to track your expenses and budget",
-  "repo": "https://github.com/Mondinero/MonDinero"
+{ 
+ "projects": [
+  {
+    "projectName": "Mondinero",
+    "info": "A simple and visual way to track your expenses and budget",
+    "repo": "https://github.com/Mondinero/MonDinero"
+  }
+
+ ]
+
 }
