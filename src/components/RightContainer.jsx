@@ -6,6 +6,9 @@ import projectsData from '../data/projects.json';
 import resumeData from '../data/resume.json';
 import skillsData from '../data/skills.json';
 
+// Component imports
+import ExpContainer from './ExpContainer';
+
 function RightContainer () {
  
   
