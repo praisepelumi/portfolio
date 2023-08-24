@@ -1,5 +1,6 @@
 import React from 'react';
-import experience from '../data/experience.json'
+import experience from '../data/experience.json';
+import projects from '../data/projects.json';
 
 function RightContainer () {
   
