@@ -3,8 +3,14 @@
     {
       "company": "OS Labs (Kubernét)",
       "position": "Software Engineer",
-      "roles": 
+      "roles": "Developed Kubernét - a user-friendly solution for effortlessly visualizing and monitoring your Kubernetes metrics in real-time. Through the intuitive interface, Kubernét simplifies the complex task of tracking and analyzing your K8s cluster metrics.",
       "skills": ["React", "TypeScript", "SCSS", "Node.js", "Prometheus", "Grafana"]
-    }
+    },
+    {
+      "company": "CS Engineering",
+      "position": "Software Engineer",
+      "roles": "",
+      "skills": ["React", "TypeScript", "SCSS", "Node.js", "Prometheus", "Grafana"]
+    },
   ]
 }
