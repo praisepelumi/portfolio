@@ -2,7 +2,8 @@
   "experience": [
     {
       "company": "OS Labs (Kubernét)",
-      "role": "Software Engineer",
+      "position": "Software Engineer",
+
       "skills": ["React", "TypeScript", "SCSS", "Node.js", "Prometheus", "Grafana"]
     }
   ]
