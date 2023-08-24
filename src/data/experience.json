@@ -3,7 +3,7 @@
     {
       "company": "OS Labs (Kubernét)",
       "position": "Software Engineer",
-
+      "roles": 
       "skills": ["React", "TypeScript", "SCSS", "Node.js", "Prometheus", "Grafana"]
     }
   ]
