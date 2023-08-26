@@ -37,7 +37,7 @@ function LeftContainer () {
             <a href="">
             <span>iii</span> 
             <span></span>
-            <span>SKILlS</span>
+            <span>SKILLS</span>
             </a>
           </li>
           <li>
