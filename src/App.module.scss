@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+
+.leftSide {
+  flex: 1;
+  background-color: yellow;
+}
+
+.rightSide {
+  flex: 1;
+  background-color: pink;
+}
