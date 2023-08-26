@@ -11,7 +11,7 @@ import ExpContainer from './ExpContainer';
 import ProjectsContainer from './projectsContainer';
 
 function RightContainer () {
-  
+  const experience = experienceData
   const projects = projectsData.projects.map((project) => {
     return <ProjectsContainer projectName={project.projectName} info={project.info} repo={project.repo}/>
   })
