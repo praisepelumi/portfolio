@@ -14,6 +14,7 @@ import AboutMeData from '../data/about.json'
 import ExpContainer from './ExpContainer';
 import ProjectsContainer from './ProjectsContainer';
 import AboutMe from './AboutMe';
+import Skill from './Skill';
 
 function RightContainer () {
   const projects = projectsData.projects.map((project) => {
