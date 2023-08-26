@@ -16,9 +16,12 @@ import ProjectsContainer from './ProjectsContainer';
 import AboutMe from './AboutMe';
 
 function RightContainer () {
-  const experience = experienceData
   const projects = projectsData.projects.map((project) => {
     return <ProjectsContainer projectName={project.projectName} info={project.info} repo={project.repo}/>
+  });
+
+  const skills = skillsData.skills.map(skill => {
+    return 
   })
 
   return (
@@ -29,6 +32,10 @@ function RightContainer () {
 
       <div>
         {projects}
+      </div>
+
+      <div>
+
       </div>
 
       <div>
