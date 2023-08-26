@@ -21,7 +21,9 @@ function RightContainer () {
       <div>
 
       </div>
-      <div></div>
+      <div>
+        {projects}
+      </div>
       <div></div>
     </div>
   )
