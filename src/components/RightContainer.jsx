@@ -11,7 +11,9 @@ import ExpContainer from './ExpContainer';
 
 function RightContainer () {
   
-  
+  const projects = projectsData.projects.map((project) => {
+    
+  })
   
   return (
     <div>
