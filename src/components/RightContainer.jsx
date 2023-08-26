@@ -9,6 +9,7 @@ import skillsData from '../data/skills.json';
 // Component imports
 import ExpContainer from './ExpContainer';
 import ProjectsContainer from './projectsContainer';
+import AboutMe from './AboutMe';
 
 function RightContainer () {
   const experience = experienceData
@@ -20,6 +21,9 @@ function RightContainer () {
     <div>
       <div>
         {projects}
+      </div>
+      <div>
+
       </div>
       <div>
       </div>
