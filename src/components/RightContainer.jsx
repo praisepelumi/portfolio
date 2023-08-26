@@ -7,9 +7,12 @@ import resumeData from '../data/resume.json';
 import skillsData from '../data/skills.json';
 import AboutMeData from '../data/about.json'
 
+
+//import resume from '../docs/Praise_Emmanuel_Resume.pdf';
+
 // Component imports
 import ExpContainer from './ExpContainer';
-import ProjectsContainer from './projectsContainer';
+import ProjectsContainer from './ProjectsContainer';
 import AboutMe from './AboutMe';
 
 function RightContainer () {
@@ -17,7 +20,7 @@ function RightContainer () {
   const projects = projectsData.projects.map((project) => {
     return <ProjectsContainer projectName={project.projectName} info={project.info} repo={project.repo}/>
   })
-  console.log(projects)
+
   return (
     <div>
       <div>
@@ -27,9 +30,9 @@ function RightContainer () {
       <div>
         {projects}
       </div>
-      
-      <div>
 
+      <div>
+        <a href="Praise_Emmanuel_Resume.pdf" target="_blank">Click here to view my Resume</a>
       </div>
       <div>
       </div>
