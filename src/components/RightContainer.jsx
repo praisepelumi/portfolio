@@ -22,7 +22,7 @@ function RightContainer () {
   });
 
   const skills = skillsData.skills.map(skill => {
-    return 
+    return <Skill skillType = {skill}/>
   })
 
   return (
@@ -36,7 +36,7 @@ function RightContainer () {
       </div>
 
       <div>
-
+        {skills}
       </div>
 
       <div>
