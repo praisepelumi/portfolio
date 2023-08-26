@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Skill ({skill}) {
+export default function Skill ({skillType}) {
   return (
     <div>
-      <p>{skill}</p>
+      <p>{skillType}</p>
     </div>
   )
 }
