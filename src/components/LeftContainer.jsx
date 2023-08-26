@@ -21,23 +21,24 @@ function LeftContainer () {
         <ul>
           <li>
             <a href="">
-            <span>ii</span> 
+            <span>i</span> 
             <span></span>
             <span>Projects</span>
             </a>
           </li>
           <li>
             <a href="">
-            <span>iii</span> 
+            <span>ii</span> 
             <span></span>
             <span>Skills</span>
             </a>
           </li>
           <li>
             <a href="">
-            <span>iv</span> 
+            <span>iii</span> 
             <span></span>
             <span>Experience - Resume</span>
+            <a href="">Click here to view my resume</a>
             </a>
           </li>
        
