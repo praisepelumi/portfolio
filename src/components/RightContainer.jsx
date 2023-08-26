@@ -1,5 +1,6 @@
 import React from 'react';
 import { useEffect } from 'react';
+import styles from './RightContainer.module.scss'
 // Json Imports
 import experienceData from '../data/experience.json';
 import projectsData from '../data/projects.json';
