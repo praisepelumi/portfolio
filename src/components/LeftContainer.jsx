@@ -3,7 +3,7 @@ import styles from './LeftContainer.module.scss'
 
 function LeftContainer () {
   return (
-    <div>
+    <div className={styles.container}>
       <div>
       <h1>Praise Emmanuel</h1>
       <h2>Software Engineer</h2>

@@ -1,13 +1,7 @@
+
 .container {
   display: flex;
-}
-
-.leftSide {
-  flex: 1;
-  background-color: yellow;
-}
-
-.rightSide {
-  flex: 1;
-  background-color: pink;
+  align-items: flex-start;
+  gap: 4rem;
+  
 }
