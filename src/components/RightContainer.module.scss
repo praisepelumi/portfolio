@@ -4,4 +4,25 @@
   flex: 1;
   overflow: auto;
   max-height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 60px;
+  scrollbar-width: none;  /* Firefox */
+  margin-top: 80px;
 }
+
+.container::-webkit-scrollbar { 
+  display: none;  /* Safari and Chrome */
+}
+
+.about {
+
+}
+
+// Project Components Styles 
+.projectDiv {
+ border: 1px solid black;
+ margin-top: 20px;
+}
+
+
+
