@@ -28,8 +28,8 @@ function RightContainer () {
 
   return (
     <div className={styles.container}>
-      <div>
-        <AboutMe about={AboutMeData.about}/>
+      <div className={styles.about}>
+        <AboutMe about={AboutMeData.about} />
       </div>
 
       <div>
