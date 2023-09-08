@@ -11,10 +11,7 @@ function LeftContainer () {
 
       <div>
         <p>
-          I am Software Engineer who is passionate about solving complex problems and building robust applications. 
-        </p>
-        <p>
-          When I'm not coding, you can find me cooking, interior decorating, playing the piano, or playing the guitar.
+          I am Software Engineer who is passionate about solving complex problems and building accesible, inclusive, and robust applications. 
         </p>
       </div>
 
