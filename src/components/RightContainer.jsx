@@ -36,7 +36,7 @@ function RightContainer () {
         {projects}
       </div>
 
-      <div className={styles.skillsDiv}>
+      <div className={styles.skillsContainer}>
         {skills}
       </div>
 
