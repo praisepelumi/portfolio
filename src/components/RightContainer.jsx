@@ -40,7 +40,7 @@ function RightContainer () {
         {skills}
       </div>
 
-      <div>
+      <div className={styles.experience}>
         <a href="Praise_Emmanuel_Resume.pdf" target="_blank">Click here to view my Resume</a>
       </div>
       <div>
