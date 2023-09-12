@@ -34,7 +34,9 @@
   border: 1px solid black;
   margin-top: 20px;
   display: grid;
+  grid-template-columns: repeat(4, 1fr);
   
+
 
 }
 
